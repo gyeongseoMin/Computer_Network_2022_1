@@ -8,3 +8,9 @@ Server에서는 Client의 Request에따라 응답 메시지를 구성하여 Resp
   * GET-응답 4xx, GET-응답 2xxx, HEAD-응답 1xx, POST-응답 2xxx, POST-응답 1xx 등
   * 소켓 통신은 PC가 2대 이상이면 Client, Server 실행은 분리하여 진행을 권장, 
   * 2대 이상 환경이 안되는 경우는 localhost로 진행도 가능
+
+## Development Environmnet
+* Python
+* Pycharm 2021.3.3
+
+
